@@ -1,0 +1,135 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container{
+    max-width: 1440px;
+    margin: 30px auto;
+    padding-bottom: 300px;
+}
+h1{
+    padding-top: 30px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: black;
+    
+}
+.h{
+    color: white;
+}
+.blog{
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    padding-top: 40px;
+    width: 800px;
+    background-color: aqua;
+}
+.blo{
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin-top: -35px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    padding-top: 40px;
+    width: 800px;
+    background-color: black;
+    color: white;
+}
+.bk{
+    display: none;
+}
+.c{
+    display: block;
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin-top: -35px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    padding-top: 40px;
+    width: 800px;
+    background-color: black;
+    color: white;
+}
+.bg{
+    display: none;
+}
+.d{
+    display: block;
+    text-align: center;
+}
+.bc{
+    display: none;
+}
+.y{
+    text-align: center;
+    display: block;
+    font-size: 30px;
+    padding-bottom: 30px;
+    margin-top: -35px;
+    margin-bottom: 30px;
+    margin-left: 300px;
+    padding-top: 40px;
+    width: 800px;
+    background-color: black;
+    color: white;
+}
+.drop{
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: black;
+    opacity: 0.5;
+}
+.drop1{
+    display: block;
+    position: fixed;
+    top: 0;
+}
+.but{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    border-radius: 15px;
+    font-size: 20px;color: white;
+    background-color: rgb(33, 87, 237);
+    border: none;
+    height: 50px;
+    padding: 20px;
+}
+.int{
+    display: none;
+}
+.in{
+    display: block;
+}
+.buttn2{
+    display: none;
+}
+.buttn{
+    display: none;
+}
+.mode{
+    position: fixed;
+    top: 30px;
+    right: 10px
+}
+.dis{
+    display: none;
+}
+#dark{
+    width: 60px;
+    height: 60px;
+    ;
+}
+#light{
+    width: 60px;
+    height: 60px;
+}
